@@ -1,2 +1,2 @@
-name: "Lee Wai Kiu"
-SID: 20769482
+Name: Lee Wai Kiu
+ID: 20769482
